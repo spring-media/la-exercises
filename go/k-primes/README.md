@@ -14,8 +14,8 @@ The k-prime numbers are not regularly spaced. For example: between 2 and 50 we h
 
 The steps between two k-primes of this list are 2, 3, 1, 4, 1, 6, 1, 3, 1, 7, 1, 1, 3, 1, 7, 3.
 
-Task
-We will write a function kprimes_step(k, step, start, nd) with parameters:
+## Task:
+Write a function kprimes_step(k, step, start, nd) with parameters:
 
 k (integer > 0) which indicates the type of k-primes we are looking for,
 
