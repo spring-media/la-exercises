@@ -6,8 +6,11 @@ A natural number is thus prime if and only if it is 1-prime.
 
 Examples of k-primes:
 k = 2 -> 4, 6, 9, 10, 14, 15, 21, 22, …
+
 k = 3 -> 8, 12, 18, 20, 27, 28, 30, …
+
 k = 5 -> 32, 48, 72, 80, 108, 112, …
+
 The k-prime numbers are not regularly spaced. For example: between 2 and 50 we have the following 2-primes:
 
 [4, 6, 9, 10, 14, 15, 21, 22, 25, 26, 33, 34, 35, 38, 39, 46, 49]
