@@ -5,6 +5,7 @@ A natural number is called k-prime if it has exactly k prime factors, counted wi
 A natural number is thus prime if and only if it is 1-prime.
 
 Examples of k-primes:
+
 k = 2 -> 4, 6, 9, 10, 14, 15, 21, 22, …
 
 k = 3 -> 8, 12, 18, 20, 27, 28, 30, …
