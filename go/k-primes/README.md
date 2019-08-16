@@ -31,6 +31,9 @@ So this function should return an array of all the pairs (or tuples) of k-prime 
 
 ## Examples:
 kprimes_step(2, 2, 0, 50) => [[4, 6], [33, 35]]
+
 kprimes_step(6, 14, 2113665, 2113889) => [[2113722, 2113736]])
+
 kprimes_step(2, 10, 0, 50) => [[4, 14], [15, 25], [25, 35], [39, 49]]
+
 kprimes_step(5, 20, 0, 50) => []
